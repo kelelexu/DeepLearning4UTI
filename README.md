@@ -21,8 +21,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
 ## Related Labs
-* [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore](https://www.dental.umaryland.edu/speech/) -  
-
+* [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore](https://www.dental.umaryland.edu/speech/)  
+* [Haskins Laboratories, Yale University, New Haven](http://www.haskins.yale.edu/understandingspeech.html) 
 
 ## Contributing
 
