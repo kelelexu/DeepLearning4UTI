@@ -1,7 +1,3 @@
 # DeepLearning4UTI
-Deep Learning For Ultrasound Tongue Imaging
+The aim of this repository is to create a comprehensive, curated list of resources related and used for deep learning-based ultrasound tongue image analysis.
 
-
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
