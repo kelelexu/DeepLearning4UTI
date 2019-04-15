@@ -1,5 +1,5 @@
 # DeepLearning4UTI
-The aim of this repository is to create a comprehensive, curated list of resources related and used for ultrasound tongue image (UTI) analysis, especially for the deep learning-based approaches.
+The aim of this repository is to create a comprehensive, curated list of resources which can be used for ultrasound tongue image (UTI) analysis, especially for the deep learning-based approaches.
 
 ## Contents
 
