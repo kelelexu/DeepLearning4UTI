@@ -21,8 +21,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
 ## Related Labs
+* [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore](https://www.dental.umaryland.edu/speech/) -  
 
-There is already [PythonInMusic](https://wiki.python.org/moin/PythonInMusic) but it is not up to date and includes too many packages of special interest that are mostly not relevant for scientific applications. [Awesome-Python](https://github.com/vinta/awesome-python) is large curated list of python packages. However, the audio section is very small.
 
 ## Contributing
 
