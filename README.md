@@ -16,7 +16,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 ## Code
 
-* [Coursera Course](https://www.coursera.org/learn/audio-signal-processing) -  Audio Signal Processing, Python based course from UPF of Barcelona and Stanford University.
+* [Predicting tongue motion in unlabeled ultrasound videos using convolutional LSTM neural network](https://github.com/shuiliwanwu/ConvLstm-ultrasound-videos) -  Chaojie Zhao, Peng Zhang, Jian Zhu, Chengrui Wu, Huaimin Wang, Kele Xu.
 * [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
 * [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
