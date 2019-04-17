@@ -23,16 +23,18 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 ## Related Labs
 * [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore](https://www.dental.umaryland.edu/speech/)  
-* [Haskins Laboratories, Yale University, New Haven](http://www.haskins.yale.edu/understandingspeech.html) 
-* [Speech Disorders & Technology Lab, UT Dallas](https://www.utdallas.edu/wanglab/) 
-* [GIPSA-lab, Grenoble](http://www.gipsa-lab.grenoble-inp.fr/en/home.php) 
-* [Speech Technology and Smart Interactions Laboratory, Budapest University of Technology and Economics](http://smartlab.tmit.bme.hu/index-en)
-* [Laboratoire Signaux, Mod les, Apprentissage statistique (SIGMA), Paris](https://www.neurones.espci.fr/index_E.htm)
-* [The Key Laboratory of Cognitive Computing and Applications, Tianjin University](http://cs.tju.edu.cn/csweben/researchdetail?item=KLCCA)
+* [Haskins Laboratories, Yale University, New Haven, USA](http://www.haskins.yale.edu/understandingspeech.html) 
+* [Speech Disorders & Technology Lab, UT Dallas, USA](https://www.utdallas.edu/wanglab/) 
+* [School of Electrical Engineering and Computer Science, University of Ottawa, Canada](http://www.site.uottawa.ca/~wslee/index.shtml) 
+* [Laboratoire Signaux, Mod les, Apprentissage statistique (SIGMA), Paris, France](https://www.neurones.espci.fr/index_E.htm)
+* [GIPSA-lab, Grenoble, France](http://www.gipsa-lab.grenoble-inp.fr/en/home.php)
 * [Centre for Speech Technology Research, University of Edinburgh](http://www.cstr.ed.ac.uk/)
 * [Psychological Sciences and Health, University of Strathclyde, UK](https://www.strath.ac.uk/humanities/psychologicalscienceshealth/)
 * [Clinical Audiology, Speech and Language Research Centre, Queen Margaret University, UK](https://www.qmu.ac.uk/research-and-knowledge-exchange/research-centres-institutes-and-groups/clinical-audiology-speech-and-language-research-centre/)
 * [Articulate Instruments Ltd., UK](www.articulateinstruments.com/)
+* [Speech Technology and Smart Interactions Laboratory, Budapest University of Technology and Economics, Hungary](http://smartlab.tmit.bme.hu/index-en)
+* [The Key Laboratory of Cognitive Computing and Applications, Tianjin University, China](http://cs.tju.edu.cn/csweben/researchdetail?item=KLCCA)
+
 
 ## Contributing
 
