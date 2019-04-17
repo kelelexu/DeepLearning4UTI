@@ -11,15 +11,12 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 ## Scientific Papers
 #### Motion Tracking
-* [Python for audio signal processing](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) - John C. Glover, Victor Lazzarini and Joseph Timoney, Linux Audio Conference 2011.
-* [librosa: Audio and Music Signal Analysis in Python](http://conference.scipy.org/proceedings/scipy2015/pdfs/brian_mcfee.pdf), [Video](https://www.youtube.com/watch?v=MhOdbtPhbLU) - Brian McFee, Colin Raffel, Dawen Liang, Daniel P.W. Ellis, Matt McVicar, Eric Battenberg, Oriol Nieto, Scipy 2015.
+* [xxx](http://eprints.maynoothuniversity.ie/4115/1/40.pdf) - John C. Glover, Victor Lazzarini and Joseph Timoney, Linux Audio Conference 2011.
 #### Other Analysis
 
 ## Code
 
-* [Predicting tongue motion in unlabeled ultrasound videos using convolutional LSTM neural network](https://github.com/shuiliwanwu/ConvLstm-ultrasound-videos) -  Chaojie Zhao, Peng Zhang, Jian Zhu, Chengrui Wu, Huaimin Wang, Kele Xu.
-* [Digital Signal Processing Course](http://dsp-nbsphinx.readthedocs.io/en/nbsphinx-experiment/index.html) - Masters Course Material (University of Rostock) with many Python examples.
-* [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
+* [Predicting tongue motion in unlabeled ultrasound videos using convolutional LSTM neural network](https://github.com/shuiliwanwu/ConvLstm-ultrasound-videos) -  Chaojie Zhao, Peng Zhang, Jian Zhu, Chengrui Wu, Huaimin Wang, Kele Xu. ICASSP 2019.
 
 ## Related Labs
 * [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore, USA](https://www.dental.umaryland.edu/speech/) 
