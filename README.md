@@ -24,7 +24,9 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 ## Related Labs
 * [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore](https://www.dental.umaryland.edu/speech/)  
 * [Haskins Laboratories, Yale University, New Haven](http://www.haskins.yale.edu/understandingspeech.html) 
-
+* [Speech Disorders & Technology Lab, UT Dallas](https://www.utdallas.edu/wanglab/) 
+* [GIPSA-lab](http://www.gipsa-lab.grenoble-inp.fr/en/home.php) 
+* [http://smartlab.tmit.bme.hu/csapo/?l=en](http://smartlab.tmit.bme.hu/index-en)
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
