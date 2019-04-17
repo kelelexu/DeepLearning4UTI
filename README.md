@@ -27,6 +27,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Speech Disorders & Technology Lab, UT Dallas](https://www.utdallas.edu/wanglab/) 
 * [GIPSA-lab, Grenoble](http://www.gipsa-lab.grenoble-inp.fr/en/home.php) 
 * [Speech Technology and Smart Interactions Laboratory, Budapest University of Technology and Economics](http://smartlab.tmit.bme.hu/index-en)
+* [Laboratoire Signaux, Mod les, Apprentissage statistique (SIGMA), Paris](https://www.neurones.espci.fr/index_E.htm)
+* [The Key Laboratory of Cognitive Computing and Applications, Tianjin University](http://cs.tju.edu.cn/csweben/researchdetail?item=KLCCA)
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
