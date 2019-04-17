@@ -27,6 +27,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Speech Disorders & Technology Lab, UT Dallas, USA](https://www.utdallas.edu/wanglab/) 
 * [School of Electrical Engineering and Computer Science, University of Ottawa, Canada](http://www.site.uottawa.ca/~wslee/index.shtml) 
 * [Laboratoire Signaux, Mod les, Apprentissage statistique (SIGMA), Paris, France](https://www.neurones.espci.fr/index_E.htm)
+* [The Langevin Institute, Paris, France](https://www.institut-langevin.espci.fr/the_langevin_institute?lang=en)
 * [GIPSA-lab, Grenoble, France](http://www.gipsa-lab.grenoble-inp.fr/en/home.php)
 * [Centre for Speech Technology Research, University of Edinburgh, UK](http://www.cstr.ed.ac.uk/)
 * [Psychological Sciences and Health, University of Strathclyde, UK](https://www.strath.ac.uk/humanities/psychologicalscienceshealth/)
