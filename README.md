@@ -26,7 +26,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Haskins Laboratories, Yale University, New Haven](http://www.haskins.yale.edu/understandingspeech.html) 
 * [Speech Disorders & Technology Lab, UT Dallas](https://www.utdallas.edu/wanglab/) 
 * [GIPSA-lab, Grenoble](http://www.gipsa-lab.grenoble-inp.fr/en/home.php) 
-* [Speech Technology and Smart Interactions Laboratory](http://smartlab.tmit.bme.hu/index-en)
+* [Speech Technology and Smart Interactions Laboratory, Budapest University of Technology and Economics](http://smartlab.tmit.bme.hu/index-en)
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
