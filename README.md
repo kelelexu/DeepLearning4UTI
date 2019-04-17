@@ -22,13 +22,13 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Slack Channel](https://mircommunity.slack.com) - Music Information Retrieval Community.
 
 ## Related Labs
-* [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore](https://www.dental.umaryland.edu/speech/)  
+* [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore, USA](https://www.dental.umaryland.edu/speech/) 
 * [Haskins Laboratories, Yale University, New Haven, USA](http://www.haskins.yale.edu/understandingspeech.html) 
 * [Speech Disorders & Technology Lab, UT Dallas, USA](https://www.utdallas.edu/wanglab/) 
 * [School of Electrical Engineering and Computer Science, University of Ottawa, Canada](http://www.site.uottawa.ca/~wslee/index.shtml) 
 * [Laboratoire Signaux, Mod les, Apprentissage statistique (SIGMA), Paris, France](https://www.neurones.espci.fr/index_E.htm)
 * [GIPSA-lab, Grenoble, France](http://www.gipsa-lab.grenoble-inp.fr/en/home.php)
-* [Centre for Speech Technology Research, University of Edinburgh](http://www.cstr.ed.ac.uk/)
+* [Centre for Speech Technology Research, University of Edinburgh, UK](http://www.cstr.ed.ac.uk/)
 * [Psychological Sciences and Health, University of Strathclyde, UK](https://www.strath.ac.uk/humanities/psychologicalscienceshealth/)
 * [Clinical Audiology, Speech and Language Research Centre, Queen Margaret University, UK](https://www.qmu.ac.uk/research-and-knowledge-exchange/research-centres-institutes-and-groups/clinical-audiology-speech-and-language-research-centre/)
 * [Articulate Instruments Ltd., UK](www.articulateinstruments.com/)
