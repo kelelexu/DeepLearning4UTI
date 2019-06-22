@@ -11,7 +11,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 ## Scientific Papers
 #### Motion Tracking
-* [Jaumard-Hakoun, A., Xu, K., Roussel-Ragot, P., Dreyfus, G., & Denby, B. (2016). Tongue contour extraction from ultrasound images based on deep neural network. arXiv preprint arXiv:1605.05912.](https://arxiv.org/ftp/arxiv/papers/1605/1605.05912.pdf) - John C. Glover, Victor Lazzarini and Joseph Timoney, Linux Audio Conference 2011.
+* [Tongue contour extraction from ultrasound images based on deep neural network.](https://arxiv.org/ftp/arxiv/papers/1605/1605.05912.pdf) - Jaumard-Hakoun, A., Xu, K., Roussel-Ragot, P., Dreyfus, G., & Denby, B. (2016) ICPhS.
+
 #### Other Analysis
 
 ## Code
