@@ -16,7 +16,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Tongue contour extraction from ultrasound images based on deep neural network.](https://arxiv.org/ftp/arxiv/papers/1605/1605.05912.pdf) Jaumard-Hakoun, Aurore, et al. (2016) ICPhS.
 * [A comparative study on the contour tracking algorithms in ultrasound tongue images with automatic re-initialization.](https://asa.scitation.org/doi/full/10.1121/1.4951024?TRACK=RSS) Xu, Kele, et al. (2016) The Journal of the Acoustical Society of America Express Letters.
 * [Robust contour tracking in ultrasound tongue image sequences.](https://www.tandfonline.com/doi/abs/10.3109/02699206.2015.1110714) Xu, Kele, et al. (2016) Clinical linguistics & phonetics.
-
+* [BowNet: Dilated Convolution Neural Network for Ultrasound Tongue Contour Extraction.](https://arxiv.org/abs/1906.04232) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
+* [Transfer Learning for Ultrasound Tongue Contour Extraction with Different Domains.](https://arxiv.org/abs/1906.04301) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 
 #### Other Analysis
 
