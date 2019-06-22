@@ -11,11 +11,11 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 ## Scientific Papers
 #### Motion Tracking
-[A guide to analysing tongue motion from ultrasound images.] Stone, Maureen (https://www.dental.umaryland.edu/media/sod/vocal-tract-visualization-laboratory/Guide_to_Ultrasound.pdf) Stone, Maureen. (2005) Clinical linguistics & phonetics.
-[Automatic contour tracking in ultrasound images.](https://pdfs.semanticscholar.org/3f1a/2e2ccc5774a60b527ac6f5a7d0665b25895b.pdf) Li, Min, Chandra Kambhamettu, and Maureen Stone (2005) Clinical linguistics & phonetics.
-[Tongue contour extraction from ultrasound images based on deep neural network.](https://arxiv.org/ftp/arxiv/papers/1605/1605.05912.pdf) Jaumard-Hakoun, Aurore, et al. (2016) ICPhS.
-[A comparative study on the contour tracking algorithms in ultrasound tongue images with automatic re-initialization.](https://asa.scitation.org/doi/full/10.1121/1.4951024?TRACK=RSS) Xu, Kele, et al. (2016) The Journal of the Acoustical Society of America Express Letters.
-[Robust contour tracking in ultrasound tongue image sequences.](https://www.tandfonline.com/doi/abs/10.3109/02699206.2015.1110714) Xu, Kele, et al. (2016) Clinical linguistics & phonetics.
+* [A guide to analysing tongue motion from ultrasound images.] Stone, Maureen (https://www.dental.umaryland.edu/media/sod/vocal-tract-visualization-laboratory/Guide_to_Ultrasound.pdf) Stone, Maureen. (2005) Clinical linguistics & phonetics.
+* [Automatic contour tracking in ultrasound images.](https://pdfs.semanticscholar.org/3f1a/2e2ccc5774a60b527ac6f5a7d0665b25895b.pdf) Li, Min, Chandra Kambhamettu, and Maureen Stone (2005) Clinical linguistics & phonetics.
+* [Tongue contour extraction from ultrasound images based on deep neural network.](https://arxiv.org/ftp/arxiv/papers/1605/1605.05912.pdf) Jaumard-Hakoun, Aurore, et al. (2016) ICPhS.
+* [A comparative study on the contour tracking algorithms in ultrasound tongue images with automatic re-initialization.](https://asa.scitation.org/doi/full/10.1121/1.4951024?TRACK=RSS) Xu, Kele, et al. (2016) The Journal of the Acoustical Society of America Express Letters.
+* [Robust contour tracking in ultrasound tongue image sequences.](https://www.tandfonline.com/doi/abs/10.3109/02699206.2015.1110714) Xu, Kele, et al. (2016) Clinical linguistics & phonetics.
 
 
 #### Other Analysis
