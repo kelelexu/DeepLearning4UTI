@@ -44,7 +44,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
-
+Please feel free to pull requests, email Kele Xu (kelele.xu@gmail.com) or join our chats to add links.
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could vote for them by adding 👍 to them.
 
 ## License
