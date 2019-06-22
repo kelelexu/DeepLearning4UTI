@@ -22,6 +22,9 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [BowNet: Dilated Convolution Neural Network for Ultrasound Tongue Contour Extraction.](https://arxiv.org/abs/1906.04232) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 * [Transfer Learning for Ultrasound Tongue Contour Extraction with Different Domains.](https://arxiv.org/abs/1906.04301) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 
+#### Ultrasound-Based Silent Speech Interface
+
+
 #### Other Analysis
 
 ## Code
