@@ -31,7 +31,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Updating the silent speech challenge benchmark with deep learning.]Ji, Yan, et al. (2018) International Seminar on Speech Production.
 * [Ultrasound-based Silent Speech Interface Built on a Continuous Vocoder.](https://arxiv.org/abs/1906.09885) Csapó, T. G. et al. (2019) 
 
-#### Other Analysis
+#### Tutorials
+
 
 ## Code
 
