@@ -28,7 +28,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 #### Ultrasound-Based Silent Speech Interface
 * [Development of a silent speech interface driven by ultrasound and optical images of the tongue and lips.](https://www.neurones.espci.fr/Articles_PS/SPEECHCOM%202.pdf) Hueber, Thomas, et al. (2010) Speech Communication
 * [UTowards a Practical Silent Speech Interface Based on Vocal Tract Imaging](http://www.gipsa-lab.grenoble-inp.fr/~thomas.hueber/mes_documents/Denby_et_al_ISSP_2011_Montreal.pdf) Denby, Bruce, et al. (2011) Speech Communication
-* [Updating the silent speech challenge benchmark with deep learning.]Ji, Yan, et al. (2018) International Seminar on Speech Production.
+* [Updating the silent speech challenge benchmark with deep learning](https://arxiv.org/abs/1709.06818) Ji, Yan, et al. (2018) Speech Communication.
 * [Ultrasound-based Silent Speech Interface Built on a Continuous Vocoder.](https://arxiv.org/abs/1906.09885) Csapó, T. G. et al. (2019) 
 
 #### Tutorials
