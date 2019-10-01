@@ -38,6 +38,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 * [Predicting tongue motion in unlabeled ultrasound videos using convolutional LSTM neural network](https://github.com/shuiliwanwu/ConvLstm-ultrasound-videos) -  Chaojie Zhao, Peng Zhang, Jian Zhu, Chengrui Wu, Huaimin Wang, Kele Xu. ICASSP 2019.
 
+*[Synchronising audio and ultrasound by learning cross-modal embeddings] (https://github.com/aeshky/ultrasync)- Eshky, Aciel, et al. arXiv preprint arXiv:1907.00758.
+
 ## Related Labs
 * [Vocal Tract Visualization Laboratory, University of Maryland, Baltimore, USA](https://www.dental.umaryland.edu/speech/) 
 * [Haskins Laboratories, Yale University, New Haven, USA](http://www.haskins.yale.edu/understandingspeech.html) 
