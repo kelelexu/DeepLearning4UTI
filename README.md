@@ -13,9 +13,10 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 #### Motion Tracking
 
 * [Extraction and tracking of the tongue surface from ultrasound image sequences.](https://ieeexplore.ieee.org/abstract/document/698623) Akgul, Yusuf Sinan, Chandra Kambhamettu, and Maureen Stone. (1998) IEEE Computer Society Conference on Computer Vision and Pattern Recognition.
-* [Automatic extraction and tracking of the tongue contours.](https://ieeexplore.ieee.org/abstract/document/811315) Akgul, Yusuf Sinan, Chandra Kambhamettu, and Maureen Stone. (1999) IEEE Transactions on Medical Imaging .
+* [Automatic extraction and tracking of the tongue contours.](https://ieeexplore.ieee.org/abstract/document/811315) Akgul, Yusuf Sinan, Chandra Kambhamettu, and Maureen Stone. (1999) IEEE Transactions on Medical Imaging.
 * [A guide to analysing tongue motion from ultrasound images.](https://www.dental.umaryland.edu/media/sod/vocal-tract-visualization-laboratory/Guide_to_Ultrasound.pdf) Stone, Maureen. (2005) Clinical linguistics & phonetics.
 * [Automatic contour tracking in ultrasound images.](https://pdfs.semanticscholar.org/3f1a/2e2ccc5774a60b527ac6f5a7d0665b25895b.pdf) Li, Min, Chandra Kambhamettu, and Maureen Stone (2005) Clinical linguistics & phonetics.
+* [Deep belief networks for real-time extraction of tongue contours from ultrasound during speech.](http://www.u.arizona.edu/~jjberry/ICPR.pdf)Fasel, Ian, and Jeff Berry. (2010) 20th International Conference on Pattern Recognition. IEEE.
 * [Tongue contour extraction from ultrasound images based on deep neural network.](https://arxiv.org/ftp/arxiv/papers/1605/1605.05912.pdf) Jaumard-Hakoun, Aurore, et al. (2016) ICPhS.
 * [A comparative study on the contour tracking algorithms in ultrasound tongue images with automatic re-initialization.](https://asa.scitation.org/doi/full/10.1121/1.4951024?TRACK=RSS) Xu, Kele, et al. (2016) The Journal of the Acoustical Society of America Express Letters.
 * [Robust contour tracking in ultrasound tongue image sequences.](https://www.tandfonline.com/doi/abs/10.3109/02699206.2015.1110714) Xu, Kele, et al. (2016) Clinical linguistics & phonetics.
