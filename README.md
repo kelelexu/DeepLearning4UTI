@@ -30,6 +30,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 
 #### Ultrasound-Based Silent Speech Interface
 * [Speech synthesis from real time ultrasound images of the tongue.](https://www.researchgate.net/profile/Bruce_Denby/publication/224750547_Speech_synthesis_from_real_time_ultrasound_images_of_the_tongue/links/02bfe50cb7a0772b6a000000/Speech-synthesis-from-real-time-ultrasound-images-of-the-tongue.pdf) Bruce Denby and Maureen Stone (2004)  IEEE International Conference on Acoustics, Speech, and Signal Processing.
+* [Prospects for a silent speech interface using ultrasound imaging.](http://www.academia.edu/download/30911169/10.1.1.106.8953.pdf) Denby, Bruce, et al. (2006) IEEE International Conference on Acoustics Speech and Signal Processing Proceedings.
 * [Eigentongue feature extraction for an ultrasound-based silent speech interface.](https://www.neurones.espci.fr/Articles_PS/ICASSP_2007.pdf) Hueber, Thomas, et al. (2007) IEEE International Conference on Acoustics, Speech and Signal Processing.
 * [Development of a silent speech interface driven by ultrasound and optical images of the tongue and lips.](https://www.neurones.espci.fr/Articles_PS/SPEECHCOM%202.pdf) Hueber, Thomas, et al. (2010) Speech Communication
 * [UTowards a Practical Silent Speech Interface Based on Vocal Tract Imaging](http://www.gipsa-lab.grenoble-inp.fr/~thomas.hueber/mes_documents/Denby_et_al_ISSP_2011_Montreal.pdf) Denby, Bruce, et al. (2011) Speech Communication
