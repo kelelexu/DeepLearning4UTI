@@ -24,6 +24,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Robust contour tracking in ultrasound tongue image sequences.](https://www.tandfonline.com/doi/abs/10.3109/02699206.2015.1110714) Xu, Kele, et al. (2016) Clinical linguistics & phonetics.
 * [BowNet: Dilated Convolution Neural Network for Ultrasound Tongue Contour Extraction.](https://arxiv.org/abs/1906.04232) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 * [Transfer Learning for Ultrasound Tongue Contour Extraction with Different Domains.](https://arxiv.org/abs/1906.04301) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
+* [A CNN-based tool for automatic tongue contour tracking in ultrasound images.](https://arxiv.org/abs/1907.10210) Zhu, Jian, Will Styler, and Ian Calloway.(2019).
 
 #### 3D Tongue Motion Visualization Using Ultrasound
 
@@ -43,7 +44,6 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 ## Code
 
 * [Predicting tongue motion in unlabeled ultrasound videos using convolutional LSTM neural network](https://github.com/shuiliwanwu/ConvLstm-ultrasound-videos) -  Chaojie Zhao, Peng Zhang, Jian Zhu, Chengrui Wu, Huaimin Wang, Kele Xu. ICASSP 2019.
-
 * [Synchronising audio and ultrasound by learning cross-modal embeddings](https://github.com/aeshky/ultrasync) - Eshky, Aciel, et al. arXiv preprint arXiv:1907.00758.
 
 ## Data
