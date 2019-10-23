@@ -26,7 +26,7 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [Transfer Learning for Ultrasound Tongue Contour Extraction with Different Domains.](https://arxiv.org/abs/1906.04301) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 * [A CNN-based tool for automatic tongue contour tracking in ultrasound images.](https://arxiv.org/abs/1907.10210) Zhu, Jian, Will Styler, and Ian Calloway.(2019).
 
-#### 3D Tongue Motion Visualization Using Ultrasound
+#### 3D Ultrasound
 
 
 #### Ultrasound-Based Silent Speech Interface
