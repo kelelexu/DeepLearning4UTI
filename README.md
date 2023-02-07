@@ -25,7 +25,8 @@ The aim of this repository is to create a comprehensive, curated list of resourc
 * [BowNet: Dilated Convolution Neural Network for Ultrasound Tongue Contour Extraction.](https://arxiv.org/abs/1906.04232) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 * [Transfer Learning for Ultrasound Tongue Contour Extraction with Different Domains.](https://arxiv.org/abs/1906.04301) Mozaffari, M. Hamed, and Won-Sook Lee (2019)
 * [A CNN-based tool for automatic tongue contour tracking in ultrasound images.](https://arxiv.org/abs/1907.10210) Zhu, Jian, Will Styler, and Ian Calloway.(2019).
-
+* [Encoder-decoder CNN models for automatic tracking of tongue contours in real-time ultrasound data] Mozaffari, M. Hamed, and Won-Sook Lee. (2020).
+* [Tongue Contour Tracking and Segmentation in Lingual Ultrasound for Speech Recognition: A Review] Al-Hammuri, Khalid, et al. (2022).
 #### 3D Ultrasound
 
 
